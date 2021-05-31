@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Type3_Girl/SampleScene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
